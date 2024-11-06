@@ -1,8 +1,7 @@
 <div align="center">
   <br />
   <a href="#">
-    <img src=![image](https://github.com/user-attachments/assets/655f40c2-af60-4f19-9bae-76f141fc457d)
- alt="Project Banner">
+    <img src="https://github.com/user-attachments/assets/655f40c2-af60-4f19-9bae-76f141fc457d" alt="Project Banner">
   </a>
   <br />
   <div>
